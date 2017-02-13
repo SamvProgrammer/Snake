@@ -1,0 +1,13 @@
+﻿  snake.cpp
+c:\users\pc\documents\escuela\tarea escuela\8° semestre\snake\snake\snake.cpp(82): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\pc\documents\escuela\tarea escuela\8° semestre\snake\snake\snake.cpp(163): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+c:\users\pc\documents\escuela\tarea escuela\8° semestre\snake\snake\snake.cpp(165): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\pc\documents\escuela\tarea escuela\8° semestre\snake\snake\snake.cpp(250): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+c:\users\pc\documents\escuela\tarea escuela\8° semestre\snake\snake\snake.cpp(252): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\pc\documents\escuela\tarea escuela\8° semestre\snake\snake\snake.cpp(448): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  snake.vcxproj -> C:\Users\PC\Documents\Escuela\Tarea escuela\8° Semestre\snake\Debug\snake.exe
